@@ -1,0 +1,11 @@
+c:\users\jolande\documents\visual studio 2015\Projects\RetroTools\RetroTools\bin\Debug\RetroTools.exe.config
+c:\users\jolande\documents\visual studio 2015\Projects\RetroTools\RetroTools\bin\Debug\RetroTools.exe
+c:\users\jolande\documents\visual studio 2015\Projects\RetroTools\RetroTools\bin\Debug\RetroTools.pdb
+c:\users\jolande\documents\visual studio 2015\Projects\RetroTools\RetroTools\obj\Debug\RetroTools.csprojResolveAssemblyReference.cache
+c:\users\jolande\documents\visual studio 2015\Projects\RetroTools\RetroTools\obj\Debug\RetroTools.Properties.Resources.resources
+c:\users\jolande\documents\visual studio 2015\Projects\RetroTools\RetroTools\obj\Debug\RetroTools.csproj.GenerateResource.Cache
+c:\users\jolande\documents\visual studio 2015\Projects\RetroTools\RetroTools\obj\Debug\RetroTools.exe
+c:\users\jolande\documents\visual studio 2015\Projects\RetroTools\RetroTools\obj\Debug\RetroTools.pdb
+c:\users\jolande\documents\visual studio 2015\Projects\RetroTools\RetroTools\bin\Debug\Sulakore.dll
+c:\users\jolande\documents\visual studio 2015\Projects\RetroTools\RetroTools\bin\Debug\Sulakore.xml
+c:\users\jolande\documents\visual studio 2015\Projects\RetroTools\RetroTools\obj\Debug\RetroTools.Headers.resources
